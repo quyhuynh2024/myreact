@@ -1,0 +1,146 @@
+@font-face {
+  font-family: 'SST';
+  src:
+    url('./assets/fonts/SST-Bold.woff2') format('woff2'),
+    url('./assets/fonts/SST-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SST Condensed';
+  src:
+    url('./assets/fonts/SST-CondensedBd.woff2') format('woff2'),
+    url('./assets/fonts/SST-CondensedBd.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SST';
+  src:
+    url('./assets/fonts/SST-BoldItalic.woff2') format('woff2'),
+    url('./assets/fonts/SST-BoldItalic.woff') format('woff');
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SST';
+  src:
+    url('./assets/fonts/SST-HeavyItalic.woff2') format('woff2'),
+    url('./assets/fonts/SST-HeavyItalic.woff') format('woff');
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SST';
+  src:
+    url('./assets/fonts/SST-LightItalic.woff2') format('woff2'),
+    url('./assets/fonts/SST-LightItalic.woff') format('woff');
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SST';
+  src:
+    url('./assets/fonts/SST-Heavy.woff2') format('woff2'),
+    url('./assets/fonts/SST-Heavy.woff') format('woff');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SST';
+  src:
+    url('./assets/fonts/SST-Light.woff2') format('woff2'),
+    url('./assets/fonts/SST-Light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SST';
+  src:
+    url('./assets/fonts/SST-Medium.woff2') format('woff2'),
+    url('./assets/fonts/SST-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SST Condensed';
+  src:
+    url('./assets/fonts/SST-Condensed.woff2') format('woff2'),
+    url('./assets/fonts/SST-Condensed.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SST Condensed';
+  src:
+    url('./assets/fonts/SST-CondensedMd.woff2') format('woff2'),
+    url('./assets/fonts/SST-CondensedMd.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SST';
+  src:
+    url('./assets/fonts/SST-Roman.woff2') format('woff2'),
+    url('./assets/fonts/SST-Roman.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SST';
+  src:
+    url('./assets/fonts/SST-MediumItalic.woff2') format('woff2'),
+    url('./assets/fonts/SST-MediumItalic.woff') format('woff');
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SST';
+  src:
+    url('./assets/fonts/SST-Italic.woff2') format('woff2'),
+    url('./assets/fonts/SST-Italic.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+html {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+  -webkit-box-sizing: inherit;
+  -moz-box-sizing: inherit;
+  box-sizing: inherit;
+}
+
+* {
+  font-family: 'SST';
+}
